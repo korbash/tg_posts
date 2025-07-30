@@ -3,14 +3,13 @@
 
 используй приведённый ниже синтаксис для форматирования текста:
 
-bold - **bold**
-italics - __italics__
-crossed text - ~~crossed text~~
-monospace - `monospace`
-spoiler - ||spoiler||
-code block -
+* bold - **bold**
+* italics - __italics__
+* crossed text - ~~crossed text~~
+* monospace - `monospace`
+* spoiler - ||spoiler||
+* code block -
 ```lang
 code block
 ```
-
 избегай лишних эмодзи используй их только для структуризации текста
